@@ -2,6 +2,6 @@
 
 Project descirption.
 
-##Subheader
+## Subheader
 
 .git stores all changes.
